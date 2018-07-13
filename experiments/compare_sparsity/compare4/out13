@@ -1,0 +1,68 @@
+
+ifplot =
+
+     1
+
+
+Your variables are:
+
+delta     errs_opt  k         m1        nruns     sigmas    
+errs_nuc  errs_shr  m         n         nsigmas   timing    
+
+
+ifig = 
+
+  Figure (1) with properties:
+
+      Number: 1
+        Name: ''
+       Color: [9.4000e-01 9.4000e-01 9.4000e-01]
+    Position: [680 558 560 420]
+       Units: 'pixels'
+
+  Use GET to show all properties
+
+
+errs_shr_mean =
+
+  Columns 1 through 8
+
+   5.1587e-01   5.3343e-01   5.5896e-01   5.9466e-01   6.4185e-01   7.0122e-01   7.7361e-01   8.5130e-01
+
+  Columns 9 through 10
+
+   9.2002e-01   9.7348e-01
+
+
+errs_opt_mean =
+
+  Columns 1 through 8
+
+   3.7183e-01   4.5906e-01   5.7332e-01   7.2445e-01   9.2719e-01   1.1900e+00   1.5172e+00   1.9266e+00
+
+  Columns 9 through 10
+
+   2.4272e+00   3.0157e+00
+
+
+errs_nuc_mean =
+
+  Columns 1 through 8
+
+   4.2289e-01   4.9265e-01   5.6909e-01   6.5050e-01   7.3386e-01   8.1471e-01   8.8700e-01   9.4360e-01
+
+  Columns 9 through 10
+
+   9.7901e-01   9.9491e-01
+
+
+xvals =
+
+  Columns 1 through 8
+
+            0   2.1621e-01   4.3242e-01   6.4864e-01   8.6485e-01   1.0811e+00   1.2973e+00   1.5135e+00
+
+  Columns 9 through 10
+
+   1.7297e+00   1.9459e+00
+

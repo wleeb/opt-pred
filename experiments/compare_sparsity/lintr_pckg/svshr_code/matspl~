@@ -1,0 +1,5 @@
+  fname="file.m"
+  mag="unre_"
+  del="        function"
+  matspl.pl "$fname" "$mag" "$del"
+  

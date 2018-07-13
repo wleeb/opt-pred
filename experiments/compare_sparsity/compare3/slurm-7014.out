@@ -1,0 +1,20355 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2015 The MathWorks, Inc.
+                   R2015a (8.5.0.197613) 64-bit (glnxa64)
+                             February 12, 2015
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Setting CVX paths...done.
+
+	Academic License
+
+
+ifinit =
+
+     1
+
+
+ifplot =
+
+     0
+
+
+gam =
+
+   8.0000e-01
+
+
+m =
+
+   300
+
+
+n =
+
+   375
+
+
+k =
+
+    10
+
+
+m1 =
+
+   150
+
+
+ells =
+
+    10     9     8     7     6     5     4     3     2     1
+
+
+delta =
+
+   5.0000e-01
+
+
+nruns =
+
+   100
+
+
+nsigmas =
+
+    20
+
+
+sigmas =
+
+  Columns 1 through 6
+
+   1.0000e+00   1.1078e+00   1.2273e+00   1.3597e+00   1.5063e+00   1.6688e+00
+
+  Columns 7 through 12
+
+   1.8487e+00   2.0481e+00   2.2690e+00   2.5137e+00   2.7848e+00   3.0851e+00
+
+  Columns 13 through 18
+
+   3.4178e+00   3.7864e+00   4.1947e+00   4.6471e+00   5.1483e+00   5.7035e+00
+
+  Columns 19 through 20
+
+   6.3186e+00   7.0000e+00
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 12 workers.
+Run: 
+     36 
+
+
+chk0 =
+
+   1.3332e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     42 
+
+
+chk0 =
+
+   6.9642e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     12 
+
+
+chk0 =
+
+   5.7543e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     24 
+
+
+chk0 =
+
+   9.0017e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     56 
+
+
+chk0 =
+
+   1.1215e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     18 
+
+
+chk0 =
+
+   7.8463e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     6 
+
+
+chk0 =
+
+   8.9440e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     64 
+
+
+chk0 =
+
+   8.9007e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     60 
+
+
+chk0 =
+
+   4.5272e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     52 
+
+
+chk0 =
+
+   6.7495e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     30 
+
+
+chk0 =
+
+   6.8199e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+Run: 
+     47 
+
+
+chk0 =
+
+   1.1151e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.017268e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.027569e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.034667e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.042411e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.019651e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.047953e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.019919e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.048885e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.037369e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.054118e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.058701e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.033711e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.121327e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.145747e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.123525e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.162224e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.131532e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.137839e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.158718e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.151008e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.124526e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.141875e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.151299e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.137247e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.245054e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.222237e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.232514e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.224835e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.250869e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.226716e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.259980e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.243299e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.235444e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.262616e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.237683e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.250807e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.340096e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.318812e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.328892e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.324627e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.340219e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.356012e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.321965e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.345697e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.331723e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.358191e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.333572e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.345624e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.419240e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.409191e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.445468e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.429023e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.416481e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.431281e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.413449e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.434023e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.421986e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.447450e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.434349e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.423733e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.502503e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.492291e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.526907e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.515114e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.500877e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.510741e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.515313e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.498112e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.529118e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.505033e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.506940e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.515862e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.598724e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.578136e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.584435e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.568486e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.588497e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.577017e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.591450e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.575124e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.602557e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.589420e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.580118e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.582186e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.645793e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.649728e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.663562e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.654001e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.636335e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.644485e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.659173e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.644001e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.646612e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.667874e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.654682e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.649053e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.707009e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.720665e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.705056e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.711974e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.696907e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.718268e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.703157e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.700919e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.724110e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.711648e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.703702e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.707456e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.756709e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.769161e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.755708e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.762197e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.768912e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.749446e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.771852e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.753530e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.760649e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.754496e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.752485e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.756924e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.809786e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.799037e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.798132e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.805010e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.811714e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.794214e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.812558e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.798099e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.797831e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.802232e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.799094e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.794718e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.844008e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.834463e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.833198e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.831822e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.840847e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.846054e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.847100e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.835133e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.833801e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.837017e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.829694e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.834498e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.863552e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.872112e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.861840e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.862912e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.875136e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.870107e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.872805e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.865287e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.865601e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.858424e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.863526e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.863139e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.886853e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.894435e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.884901e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.896877e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.888040e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.893113e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.892422e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.889281e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.886664e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.888675e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.881794e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.886855e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.911193e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.904971e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.907771e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.903131e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.913434e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.911434e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.907847e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.908287e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.904694e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.906981e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.900430e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.923820e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.905777e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.918567e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.926044e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.922810e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.917166e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.925966e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.921813e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.914821e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.920602e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.918578e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.921181e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.933207e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.920535e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.928586e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.936048e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.933973e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.927542e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.936949e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.932209e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.925760e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.929905e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.939833e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.929039e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.931882e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.942478e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.935878e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.931735e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.941999e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.944453e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.934619e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.939534e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.933784e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.935533e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.936732e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.943399e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.939817e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.946115e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.941208e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.949449e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.939766e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.947265e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.939921e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.943733e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.938784e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.939831e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.946151e+00
+Run: 
+     51 
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.941837e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   6.8089e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.945697e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.948336e+00
+Run: 
+     63 
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   8.8877e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.945065e+00
+Run: 
+     5 
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+chk0 =
+
+   6.7608e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.945628e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.952746e+00
+Run: 
+     11 
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.950010e+00
+Run: 
+     59 
+
+
+chk0 =
+
+   5.8141e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   9.1016e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.944056e+00
+Run: 
+     35 
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.946520e+00
+Run: 
+     29 
+
+
+chk0 =
+
+   7.8198e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   6.7020e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.035788e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.949796e+00
+Run: 
+     41 
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.941695e+00
+Run: 
+     23 
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.943113e+00
+Run: 
+     17 
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.944838e+00
+Run: 
+     46 
+
+
+chk0 =
+
+   1.3347e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   1.1123e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   1.4448e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+chk0 =
+
+   1.0005e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.034044e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.949698e+00
+Run: 
+     55 
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.042597e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.034123e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+chk0 =
+
+   8.9188e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.043958e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.026328e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.020527e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.139922e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.043669e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.047945e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.054477e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.056162e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.046590e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.137814e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.137532e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.148482e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.146108e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.124112e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.131657e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.241032e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.147407e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.152855e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.157826e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.159255e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.238629e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.151414e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.238222e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.249602e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.223532e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.246833e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.234105e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.247616e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.337422e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.260284e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.254583e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.258036e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.334761e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.343916e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.252972e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.320526e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.342900e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.334393e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.332076e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.342722e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.350600e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.357015e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.427578e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.424255e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.353372e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.433022e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.349474e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.432575e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.411462e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.424557e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.423911e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.510851e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.432244e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.439636e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.447661e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.506303e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.441634e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.515366e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.514474e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.439364e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.495138e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.507555e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.508052e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.585736e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.581171e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.589638e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.514623e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.521401e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.519497e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.530827e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.587824e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.521361e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.582654e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.571041e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.583354e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.651956e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.647588e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.591763e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.655460e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.595073e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.589025e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.605542e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.652592e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.594574e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.649569e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.638888e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.650309e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.709598e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.657445e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.705767e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.713036e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.660479e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.654918e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.671817e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.709441e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.708248e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.657733e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.698493e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.709166e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.762799e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.715284e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.760994e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.710680e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.756841e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.718064e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.729874e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.758480e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.758728e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.749701e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.713160e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.760059e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.805137e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.801154e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.765110e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.802198e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.760420e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.768057e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.779528e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.800102e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.792892e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.801227e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.803182e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.840522e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.761560e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.807288e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.835769e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.836640e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.802714e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.810650e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.834847e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.821083e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.829032e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.836249e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.838873e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.869548e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.863478e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.837896e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.802641e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.865057e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.842395e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.846145e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.863341e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.855747e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.858544e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.864893e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.868298e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.892854e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.866513e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.885260e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.887803e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.871006e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.836939e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.874855e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.886247e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.881615e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.881128e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.887830e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.910930e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.901687e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.865063e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.891942e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.893636e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.889511e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.905588e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.897902e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.904591e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.903301e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.898792e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.906009e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.910922e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.887683e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.924210e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.908197e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.914509e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.911492e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.919258e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.916105e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.918380e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.919562e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.920135e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.913474e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.925116e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.905166e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.933602e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.922274e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.924077e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.925208e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.929574e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.930010e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.928303e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.931267e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.930581e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.923987e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.935343e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.940189e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.931576e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.918317e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.930916e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.934764e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.937172e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.940100e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.935742e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.939449e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.938186e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.931837e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.942483e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.938271e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.944347e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.941123e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.928151e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.935714e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.942688e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.941173e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.946254e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.944999e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.943584e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.937290e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.947212e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.946991e+00
+Run: 
+     28 
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.943073e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   9.0830e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.944478e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.939396e+00
+Run: 
+     50 
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.935305e+00
+
+sig =
+
+     1
+
+
+chk0 =
+
+   1.5608e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.946664e+00
+Run: 
+     10 
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+chk0 =
+
+   1.1121e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.944845e+00
+Run: 
+     4 
+
+
+chk0 =
+
+   1.6662e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.947303e+00
+Run: 
+     62 
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.949496e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.948590e+00
+
+sig =
+
+     1
+
+
+chk0 =
+
+   6.7221e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.941034e+00
+Run: 
+     34 
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.946786e+00
+Run: 
+     22 
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.950297e+00
+Run: 
+     58 
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.946299e+00
+Run: 
+     45 
+
+
+chk0 =
+
+   1.3353e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+chk0 =
+
+   7.8247e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   6.7627e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   4.4780e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.940371e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.008013e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.037495e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.951349e+00
+Run: 
+     40 
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.053142e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+chk0 =
+
+   6.7293e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.950628e+00
+Run: 
+     16 
+
+
+chk0 =
+
+   6.8152e-16
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.052658e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.045073e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.052217e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.019392e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.017153e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.943458e+00
+Run: 
+     54 
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+chk0 =
+
+   1.3392e-15
+
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.028348e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.112816e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.142299e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.042279e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.021871e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.157271e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.156886e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.148489e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.156972e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.024754e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.215057e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.123473e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.120977e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.133105e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.126472e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.244168e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.145241e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.249204e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.257770e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.257610e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.258881e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.222048e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.235154e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.128770e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.313124e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.224678e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.341355e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.228142e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.245003e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.353111e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.345292e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.353063e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.353799e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.318709e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.405479e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.332560e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.229863e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.321299e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.340374e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.432287e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.324928e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.442132e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.441951e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.435325e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.442393e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.409575e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.490918e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.325957e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.423970e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.411731e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.415466e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.429875e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.524034e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.515705e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.523196e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.518338e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.524056e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.508192e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.568582e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.493548e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.415139e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.492250e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.512302e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.597762e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.499703e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.591226e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.593559e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.596589e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.569756e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.599210e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.638041e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.583754e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.498150e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.567106e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.661703e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.576298e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.661882e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.586947e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.660273e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.658917e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.649863e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.664589e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.699762e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.637616e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.634138e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.574043e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.644418e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.717683e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.718854e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.717910e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.653394e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.717738e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.708048e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.720971e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.752873e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.696892e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.693095e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.641562e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.767314e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.703770e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.766847e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.766264e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.758176e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.767357e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.711598e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.769132e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.747584e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.797648e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.743947e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.700597e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.807248e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.807783e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.806807e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.800687e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.754561e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.808876e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.761779e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.809641e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.834693e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.790249e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.787017e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.751435e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.840341e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.836176e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.797563e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.841513e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.840466e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.804228e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.843202e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.843220e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.864831e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.825997e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.823150e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.867626e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.794418e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.865143e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.833131e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.868837e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.868081e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.870575e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.870632e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.888849e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.855720e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.839393e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.853017e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.889554e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.888435e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.830266e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.861848e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.890517e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.892434e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.880241e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.890182e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.892679e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.907138e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.867926e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.877445e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.906834e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.907410e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.907136e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.884366e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.920822e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.907349e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.859756e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.909815e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.899717e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.909987e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.890532e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.897032e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.920392e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.920547e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.920399e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.930619e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.920609e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.883525e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.901407e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.913692e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.923143e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.922198e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.907846e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.912088e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.930617e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.930175e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.930492e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.937061e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.930505e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.902335e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.914151e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.924562e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.932828e+00
+
+sig =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.923357e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.932084e+00
+
+sig =
+
+     1
+
+
+ell =
+
+     1
+
+
+ell =
+
+     1
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.920405e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.937414e+00
+
+sig =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+ell =
+
+     1
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+niter =
+
+     []
+
+
+tol =
+
+     []
+
+
+kest =
+
+    11
+
+Trimming ...
+Sparse SVD ...
+Iteration	Fit Error
+0		2.937662e+00
+
+sig =
+
+     1
+
+slurmstepd: error: *** JOB 7014 ON polar03 CANCELLED AT 2018-06-30T19:45:10 ***

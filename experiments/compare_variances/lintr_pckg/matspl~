@@ -1,0 +1,5 @@
+  fname="svshr.m"
+  mag="svshr_"
+  del="        function"
+  matspl.pl "$fname" "$mag" "$del"
+  

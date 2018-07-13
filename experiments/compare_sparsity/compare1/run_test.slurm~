@@ -1,0 +1,9 @@
+#!/bin/bash
+#SBATCH -n1
+#SBATCH -c40
+#SBATCH --time=03:00:00
+#SBATCH --mail-user=eitanl@math.princeton.edu
+#SBATCH --mail-type=END,FAIL
+#SBATCH --mem=600000
+#
+matlab -nodisplay -r "precomp_B_factors_script; quit"

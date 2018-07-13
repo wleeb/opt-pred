@@ -1,0 +1,5 @@
+  fname="lintr.m"
+  mag="lintr_"
+  del="        function"
+  matspl.pl "$fname" "$mag" "$del"
+  
